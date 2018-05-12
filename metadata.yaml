@@ -1,0 +1,28 @@
+_repo: Food-of-the-Crow-Corvus-brachyrhynchos-Brehm-in-South-central-Kansas_33545
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Platt, Dwight R.
+    birthdate: 1931
+    gutenberg_agent_id: '36464'
+    url: http://www.gutenberg.org/2009/agents/36464
+description: ''
+gutenberg_bookshelf:
+- Animal
+- Animals-Wild-Birds
+gutenberg_issued: '2010-08-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33545'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Crows'
+- !lcc 'QL'
+title: Food of the Crow, Corvus brachyrhynchos Brehm, in South-central Kansas
+url: http://www.gutenberg.org/ebooks/33545
