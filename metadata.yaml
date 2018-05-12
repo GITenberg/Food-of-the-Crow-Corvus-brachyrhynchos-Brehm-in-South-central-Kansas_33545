@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '36464'
     url: http://www.gutenberg.org/2009/agents/36464
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/33545#Food-of-the-Crow-Corvus-brachyrhynchos-Brehm-in-South-central-Kansas
 gutenberg_bookshelf:
 - Animal
 - Animals-Wild-Birds
